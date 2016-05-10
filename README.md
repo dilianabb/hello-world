@@ -1,3 +1,3 @@
 # hello-world
 My first git repository
-Today I started learning Git
+# Today I started learning Git
